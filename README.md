@@ -6,6 +6,3 @@ sdafdsdsaf
 fdsadsafdsaf
 
 
-[lorem ipsum](http://google.com)
-
-
